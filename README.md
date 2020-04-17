@@ -1,0 +1,2 @@
+# psedocode
+hukum newton
